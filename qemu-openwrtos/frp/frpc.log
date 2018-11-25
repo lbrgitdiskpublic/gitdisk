@@ -1,0 +1,18 @@
+2018/09/09 04:36:08 [I] [proxy_manager.go:300] proxy removed: []
+2018/09/09 04:36:08 [I] [proxy_manager.go:310] proxy added: [lbrvps1.lbrvps4 lbrvps1.lbrvps6 lbrvps1.lbrvps7 lbrvps1.lbrvps9 lbrvps1.lbrvps1 lbrvps1.lbrvps lbrvps1.lbrvps3 lbrvps1.lbrvps2 lbrvps1.lbrvps5 lbrvps1.lbrvps8 lbrvps1.lbrvps10]
+2018/09/09 04:36:08 [I] [proxy_manager.go:333] visitor removed: []
+2018/09/09 04:36:08 [I] [proxy_manager.go:342] visitor added: []
+2018/09/09 04:36:08 [I] [control.go:246] [72d0acb8b250a84c] login to server success, get run id [72d0acb8b250a84c], server udp port [7001]
+2018/09/09 04:36:08 [I] [service.go:50] admin server listen on 127.0.0.1:7400
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps5] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps8] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps10] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps4] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps6] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps7] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps2] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps9] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps1] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps] start proxy success
+2018/09/09 04:36:09 [I] [control.go:169] [72d0acb8b250a84c] [lbrvps1.lbrvps3] start proxy success
+2018/09/09 04:36:09 [I] [proxy.go:350] [lbrvps1.lbrvps3] incoming a new work connection for udp proxy, 180.162.30.53:7000
